@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 705E-8AAA
+
+ Directory of C:\Users\USER\Desktop\Git
+
+09-01-17  11:49 PM    <DIR>          .
+09-01-17  11:49 PM    <DIR>          ..
+09-01-17  11:49 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  224,901,165,056 bytes free
